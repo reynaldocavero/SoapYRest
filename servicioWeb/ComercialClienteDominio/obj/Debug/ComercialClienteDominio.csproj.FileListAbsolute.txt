@@ -1,0 +1,4 @@
+c:\users\julia\documents\visual studio 2015\Projects\ServiciosWeb\ComercialClienteDominio\bin\Debug\ComercialClienteDominio.dll
+c:\users\julia\documents\visual studio 2015\Projects\ServiciosWeb\ComercialClienteDominio\bin\Debug\ComercialClienteDominio.pdb
+c:\users\julia\documents\visual studio 2015\Projects\ServiciosWeb\ComercialClienteDominio\obj\Debug\ComercialClienteDominio.dll
+c:\users\julia\documents\visual studio 2015\Projects\ServiciosWeb\ComercialClienteDominio\obj\Debug\ComercialClienteDominio.pdb
